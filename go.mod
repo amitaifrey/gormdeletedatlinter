@@ -1,4 +1,4 @@
-module github.com/amitaifrey/gormdeletedat
+module github.com/amitaifrey/gormdeletedatlinter
 
 go 1.24.7
 

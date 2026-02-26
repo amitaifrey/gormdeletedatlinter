@@ -1,7 +1,7 @@
 package plugin
 
 import (
-	"github.com/amitaifrey/gormdeletedat"
+	gormdeletedat "github.com/amitaifrey/gormdeletedatlinter"
 	"github.com/golangci/plugin-module-register/register"
 	"golang.org/x/tools/go/analysis"
 )

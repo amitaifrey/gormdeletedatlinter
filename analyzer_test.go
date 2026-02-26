@@ -3,7 +3,7 @@ package gormdeletedat_test
 import (
 	"testing"
 
-	"github.com/amitaifrey/gormdeletedat"
+	gormdeletedat "github.com/amitaifrey/gormdeletedatlinter"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

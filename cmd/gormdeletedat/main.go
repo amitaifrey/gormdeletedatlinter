@@ -2,7 +2,7 @@
 package main
 
 import (
-	"github.com/amitaifrey/gormdeletedat"
+	gormdeletedat "github.com/amitaifrey/gormdeletedatlinter"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
